@@ -16,3 +16,8 @@ if __name__ == "__main__":
     print("Input:", arr)
     insertion_sort(arr)
     print("Output: ", arr)
+    #adding another input
+    arr1 = [1, 300, 45, 2, 19, 11, 20, 56]
+    print("Input:", arr1)
+    insertion_sort(arr1)
+    print("Output: ", arr1)
